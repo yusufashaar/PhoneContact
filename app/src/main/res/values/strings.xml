@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PhoneContact</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="name">Name</string>
+    <string name="organization">Organization</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+
+    <string name="lb_name">Name: </string>
+    <string name="lb_organization">Organization: </string>
+    <string name="lb_phone">Phone: </string>
+    <string name="lb_address">Address: </string>
+    <string name="add_contact">Add Contact</string>
+    <string name="action_edit_contact">Edit</string>
+    <string name="action_delete_contact">Delete</string>
+    <string name="update">Save</string>
+    <string name="contact_phone">Contact Phone</string>
+</resources>
